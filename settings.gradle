@@ -1,0 +1,2 @@
+rootProject.name = "CustomeListViewDemo"
+include ':app'
